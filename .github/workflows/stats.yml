@@ -20,12 +20,12 @@ jobs:
 
       - name: Generate GitHub Stats SVG
         run: |
-          curl -sL "https://github-readme-stats.vercel.app/api?username=FalconLD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" \
+          curl -sL "https://github-stats-extended.vercel.app/api?username=FalconLD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" \
             -o assets/github-stats.svg
 
       - name: Generate Top Languages SVG
         run: |
-          curl -sL "https://github-readme-stats.vercel.app/api/top-langs/?username=FalconLD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" \
+          curl -sL "https://github-stats-extended.vercel.app/api/top-langs/?username=FalconLD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" \
             -o assets/top-langs.svg
 
       - name: Generate Streak Stats SVG

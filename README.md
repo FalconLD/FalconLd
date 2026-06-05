@@ -87,12 +87,12 @@ Soy **Leonardo Falconi**, estudiante de ingeniería en la **PUCE**. Me especiali
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FalconLD&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalconLD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img height="165" src="./assets/github-stats.svg" alt="GitHub Stats"/>
+  <img height="165" src="./assets/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=FalconLD&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img height="165" src="./assets/streak-stats.svg" alt="GitHub Streak"/>
 </p>
 
 ---
